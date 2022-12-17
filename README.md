@@ -2,13 +2,13 @@
 
 I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code. Connect with me here -
 
-[![Twitter Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/)](https://twitter.com/moshfiqrony/)
-[![Facebook Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/moshfiqrony/)](https://www.facebook.com/moshfiqrony/)
-[![Linkedin Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshfiqrony/)](https://www.linkedin.com/in/moshfiqrony/)
-[![Medium Badge](https://img.shields.io/badge/-@moshfiqrony-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@moshfiqrony/)](https://medium.com/@moshfiqrony)
+[![Twitter Badge](https://img.shields.io/badge/-?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/)](https://twitter.com//)
+[![Facebook Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com//)](https://www.facebook.com/m/)
+[![Linkedin Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in//)
+[![Medium Badge](https://img.shields.io/badge/-@moshfiqrony-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@moshfiqrony/)](https://medium.com/@m)
 [![Gmail Badge](https://img.shields.io/badge/-15203012@iubat.edu-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:15203012@iubat.edu)](mailto:15203012@iubat.edu)
 [![Youtube Badge](https://img.shields.io/badge/-ProgSoft%20MR-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)](https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)
-[![Instagram Badge](https://img.shields.io/badge/-moshfiqrony-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/moshfiqrony/)](https://instagram.com/moshfiqrony)
+[![Instagram Badge](https://img.shields.io/badge/-moshfiqrony-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com//)](https://instagram.com/)
 
 - 🏢 I'm currently working at **Worklife**
 - 🚀 I use daily:
@@ -41,8 +41,8 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 # Read my recent blog's
 All these are friend link you can access for free
 
-- [Make your commit more meaningful using emojis](https://medium.com/@moshfiqrony/make-your-commit-more-meaningful-using-emojis-7dbf553293e8?source=friends_link&sk=28cd4c9b6e08e3fb9b1c6723cb4ef7ff)
-- [How to write multiple Axios mock implementations in testing](https://medium.com/@moshfiqrony/how-to-write-multiple-axios-mock-implementations-in-testing-78d3b5c6a8b5?source=friends_link&sk=4877c0ad23393c77921a2d5b89a8e3df)
+- [Make your commit more meaningful using emojis](https://medium.com//make-your-commit-more-meaningful-using-emojis-7dbf553293e8?source=friends_link&sk=28cd4c9b6e08e3fb9b1c6723cb4ef7ff)
+- [How to write multiple Axios mock implementations in testing](https://medium.com//how-to-write-multiple-axios-mock-implementations-in-testing-78d3b5c6a8b5?source=friends_link&sk=4877c0ad23393c77921a2d5b89a8e3df)
 - [MutationObserver or regeneratorRuntime error solve in testing using JEST and react-testing-library](https://medium.com/@moshfiqrony/mutationobserver-or-regeneratorruntime-error-solve-in-testing-using-jest-and-react-testing-library-495cfbff6400?source=friends_link&sk=a360533f919f1b600a565c21726f0b35)
-- [Use React Native and Android Native Merged Boilerplate](https://medium.com/@moshfiqrony/react-native-and-android-native-boiler-plate-72a08409feed?source=friends_link&sk=f28256c7c0d0b8e5278196a337abb0ab)
-- [How To Enable OnBackPress Exit Facility In Your React Native App](https://medium.com/@moshfiqrony/how-to-enable-onbackpress-exit-facility-in-your-react-native-app-37880c4d3b4e?source=friends_link&sk=1d94551fba831d1989ca153b7343d40a)
+- [Use React Native and Android Native Merged Boilerplate](https://medium.com//react-native-and-android-native-boiler-plate-72a08409feed?source=friends_link&sk=f28256c7c0d0b8e5278196a337abb0ab)
+- [How To Enable OnBackPress Exit Facility In Your React Native App](https://medium.com//how-to-enable-onbackpress-exit-facility-in-your-react-native-app-37880c4d3b4e?source=friends_link&sk=1d94551fba831d1989ca153b7343d40a)
